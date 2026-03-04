@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (keep model.h5 tracked, but ignore training temp)
+models/*.tmp
+
+# Local uploads (stored scan images)
+uploads/
