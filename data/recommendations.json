@@ -1,0 +1,42 @@
+{
+  "CORN_HEALTHY": {
+    "crop": "Corn",
+    "disease": "Healthy",
+    "recommendation": "Leaf appears healthy. Maintain balanced fertilization, proper spacing, and regular scouting to catch early symptoms."
+  },
+  "CORN_LEAF_RUST": {
+    "crop": "Corn",
+    "disease": "Leaf Rust",
+    "recommendation": "Remove heavily infected leaves if practical, improve airflow, and consider a labeled fungicide if infection is spreading. Use resistant varieties for future planting."
+  },
+  "PEPPER_BELL_HEALTHY": {
+    "crop": "Pepper",
+    "disease": "Healthy",
+    "recommendation": "Leaf appears healthy. Keep consistent watering, avoid wetting foliage, and monitor weekly for early signs of disease."
+  },
+  "PEPPER_BELL_BACTERIAL_SPOT": {
+    "crop": "Pepper",
+    "disease": "Bacterial Spot",
+    "recommendation": "Avoid overhead watering, remove infected leaves, sanitize tools, and rotate crops. Use disease-free seeds/transplants and consider copper-based sprays if appropriate."
+  },
+  "RICE_HEALTHY": {
+    "crop": "Rice",
+    "disease": "Healthy",
+    "recommendation": "Leaf appears healthy. Maintain proper water management and balanced nutrients. Continue monitoring for early symptoms."
+  },
+  "RICE_LEAF_BLAST": {
+    "crop": "Rice",
+    "disease": "Leaf Blast",
+    "recommendation": "Reduce excess nitrogen, improve field airflow where possible, and apply a labeled fungicide if outbreaks are severe. Use resistant varieties in future seasons."
+  },
+  "RICE_LEAF_BLIGHT": {
+    "crop": "Rice",
+    "disease": "Bacterial Leaf Blight",
+    "recommendation": "Use clean seed, avoid excessive nitrogen, maintain proper spacing, and manage irrigation to reduce spread. Consider resistant varieties for next planting."
+  },
+  "RICE_LEAF_BROWN_SPOT": {
+    "crop": "Rice",
+    "disease": "Brown Spot",
+    "recommendation": "Improve nutrition (especially potassium), avoid drought stress, and remove heavily infected debris. Use balanced fertilization and resistant varieties if available."
+  }
+}
